@@ -1,5 +1,5 @@
 <template>
     <div>
-        正在上映
+        正在热映
     </div>
 </template>
